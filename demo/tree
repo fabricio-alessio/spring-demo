@@ -1,0 +1,186 @@
+[INFO] Scanning for projects...
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.unico:demo:jar:0.0.1-SNAPSHOT
+[WARNING] 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: org.springframework.boot:spring-boot-starter-test:jar -> duplicate declaration of version (?) @ line 58, column 15
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/codehaus/mojo/build-helper-maven-plugin/3.2.0/build-helper-maven-plugin-3.2.0.pom
+Progress (1): 4.1/7.3 kBProgress (1): 7.3 kB                        Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/codehaus/mojo/build-helper-maven-plugin/3.2.0/build-helper-maven-plugin-3.2.0.pom (7.3 kB at 5.5 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/codehaus/mojo/build-helper-maven-plugin/3.2.0/build-helper-maven-plugin-3.2.0.jar
+Progress (1): 4.1/69 kBProgress (1): 7.9/69 kBProgress (1): 12/69 kB Progress (1): 16/69 kBProgress (1): 20/69 kBProgress (1): 24/69 kBProgress (1): 28/69 kBProgress (1): 32/69 kBProgress (1): 37/69 kBProgress (1): 41/69 kBProgress (1): 45/69 kBProgress (1): 49/69 kBProgress (1): 53/69 kBProgress (1): 57/69 kBProgress (1): 61/69 kBProgress (1): 65/69 kBProgress (1): 69 kB                      Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/codehaus/mojo/build-helper-maven-plugin/3.2.0/build-helper-maven-plugin-3.2.0.jar (69 kB at 102 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/flywaydb/flyway-maven-plugin/7.7.3/flyway-maven-plugin-7.7.3.pom
+Progress (1): 4.1/4.5 kBProgress (1): 4.5 kB                        Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/flywaydb/flyway-maven-plugin/7.7.3/flyway-maven-plugin-7.7.3.pom (4.5 kB at 6.6 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/flywaydb/flyway-maven-plugin/7.7.3/flyway-maven-plugin-7.7.3.jar
+Progress (1): 4.1/119 kBProgress (1): 7.9/119 kBProgress (1): 12/119 kB Progress (1): 16/119 kBProgress (1): 20/119 kBProgress (1): 24/119 kBProgress (1): 28/119 kBProgress (1): 32/119 kBProgress (1): 37/119 kBProgress (1): 41/119 kBProgress (1): 45/119 kBProgress (1): 49/119 kBProgress (1): 53/119 kBProgress (1): 57/119 kBProgress (1): 61/119 kBProgress (1): 65/119 kBProgress (1): 69/119 kBProgress (1): 73/119 kBProgress (1): 78/119 kBProgress (1): 82/119 kBProgress (1): 86/119 kBProgress (1): 90/119 kBProgress (1): 94/119 kBProgress (1): 98/119 kBProgress (1): 102/119 kBProgress (1): 106/119 kBProgress (1): 110/119 kBProgress (1): 114/119 kBProgress (1): 118/119 kBProgress (1): 119 kB                        Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/flywaydb/flyway-maven-plugin/7.7.3/flyway-maven-plugin-7.7.3.jar (119 kB at 142 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/pl/project13/maven/git-commit-id-plugin/4.0.5/git-commit-id-plugin-4.0.5.pom
+Progress (1): 4.1/11 kBProgress (1): 7.9/11 kBProgress (1): 11 kB                       Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/pl/project13/maven/git-commit-id-plugin/4.0.5/git-commit-id-plugin-4.0.5.pom (11 kB at 13 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/pl/project13/maven/git-commit-id-plugin-parent/4.0.5/git-commit-id-plugin-parent-4.0.5.pom
+Progress (1): 4.1/12 kBProgress (1): 7.9/12 kBProgress (1): 12/12 kB Progress (1): 12 kB                      Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/pl/project13/maven/git-commit-id-plugin-parent/4.0.5/git-commit-id-plugin-parent-4.0.5.pom (12 kB at 22 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/pl/project13/maven/git-commit-id-plugin/4.0.5/git-commit-id-plugin-4.0.5.jar
+Progress (1): 4.1/40 kBProgress (1): 7.9/40 kBProgress (1): 12/40 kB Progress (1): 16/40 kBProgress (1): 20/40 kBProgress (1): 24/40 kBProgress (1): 28/40 kBProgress (1): 32/40 kBProgress (1): 37/40 kBProgress (1): 40 kB                      Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/pl/project13/maven/git-commit-id-plugin/4.0.5/git-commit-id-plugin-4.0.5.jar (40 kB at 55 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/johnzon/johnzon-maven-plugin/1.2.14/johnzon-maven-plugin-1.2.14.pom
+Progress (1): 4.0 kB                    Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/johnzon/johnzon-maven-plugin/1.2.14/johnzon-maven-plugin-1.2.14.pom (4.0 kB at 6.2 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/johnzon/johnzon/1.2.14/johnzon-1.2.14.pom
+Progress (1): 4.1/27 kBProgress (1): 7.9/27 kBProgress (1): 12/27 kB Progress (1): 16/27 kBProgress (1): 20/27 kBProgress (1): 24/27 kBProgress (1): 27/27 kBProgress (1): 27 kB                      Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/johnzon/johnzon/1.2.14/johnzon-1.2.14.pom (27 kB at 39 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/johnzon/johnzon-maven-plugin/1.2.14/johnzon-maven-plugin-1.2.14.jar
+Progress (1): 4.1/31 kBProgress (1): 7.9/31 kBProgress (1): 12/31 kB Progress (1): 16/31 kBProgress (1): 20/31 kBProgress (1): 24/31 kBProgress (1): 27/31 kBProgress (1): 31/31 kBProgress (1): 31 kB                      Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/johnzon/johnzon-maven-plugin/1.2.14/johnzon-maven-plugin-1.2.14.jar (31 kB at 53 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/jooq/jooq-codegen-maven/3.14.13/jooq-codegen-maven-3.14.13.pom
+Progress (1): 3.4 kB                    Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/jooq/jooq-codegen-maven/3.14.13/jooq-codegen-maven-3.14.13.pom (3.4 kB at 5.1 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/jooq/jooq-parent/3.14.13/jooq-parent-3.14.13.pom
+Progress (1): 4.1/26 kBProgress (1): 7.9/26 kBProgress (1): 12/26 kB Progress (1): 16/26 kBProgress (1): 20/26 kBProgress (1): 24/26 kBProgress (1): 26 kB                      Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/jooq/jooq-parent/3.14.13/jooq-parent-3.14.13.pom (26 kB at 34 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/jooq/jooq-codegen-maven/3.14.13/jooq-codegen-maven-3.14.13.jar
+Progress (1): 4.1/17 kBProgress (1): 7.9/17 kBProgress (1): 12/17 kB Progress (1): 16/17 kBProgress (1): 17 kB                      Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/jooq/jooq-codegen-maven/3.14.13/jooq-codegen-maven-3.14.13.jar (17 kB at 35 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/jetbrains/kotlin/kotlin-maven-plugin/1.5.21/kotlin-maven-plugin-1.5.21.pom
+Progress (1): 4.1/5.9 kBProgress (1): 5.9 kB                        Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/jetbrains/kotlin/kotlin-maven-plugin/1.5.21/kotlin-maven-plugin-1.5.21.pom (5.9 kB at 8.3 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/jetbrains/kotlin/kotlin-project/1.5.21/kotlin-project-1.5.21.pom
+Progress (1): 4.1/10 kBProgress (1): 7.9/10 kBProgress (1): 10 kB                       Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/jetbrains/kotlin/kotlin-project/1.5.21/kotlin-project-1.5.21.pom (10 kB at 14 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/jetbrains/kotlin/kotlin-maven-plugin/1.5.21/kotlin-maven-plugin-1.5.21.jar
+Progress (1): 4.1/80 kBProgress (1): 7.9/80 kBProgress (1): 12/80 kB Progress (1): 16/80 kBProgress (1): 20/80 kBProgress (1): 24/80 kBProgress (1): 28/80 kBProgress (1): 32/80 kBProgress (1): 37/80 kBProgress (1): 41/80 kBProgress (1): 45/80 kBProgress (1): 49/80 kBProgress (1): 53/80 kBProgress (1): 57/80 kBProgress (1): 61/80 kBProgress (1): 65/80 kBProgress (1): 69/80 kBProgress (1): 73/80 kBProgress (1): 78/80 kBProgress (1): 80 kB                      Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/jetbrains/kotlin/kotlin-maven-plugin/1.5.21/kotlin-maven-plugin-1.5.21.jar (80 kB at 71 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/liquibase/liquibase-maven-plugin/4.3.5/liquibase-maven-plugin-4.3.5.pom
+Progress (1): 2.8 kB                    Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/liquibase/liquibase-maven-plugin/4.3.5/liquibase-maven-plugin-4.3.5.pom (2.8 kB at 5.2 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/liquibase/liquibase-maven-plugin/4.3.5/liquibase-maven-plugin-4.3.5.jar
+Progress (1): 4.1/103 kBProgress (1): 7.9/103 kBProgress (1): 12/103 kB Progress (1): 16/103 kBProgress (1): 20/103 kBProgress (1): 24/103 kBProgress (1): 28/103 kBProgress (1): 32/103 kBProgress (1): 37/103 kBProgress (1): 41/103 kBProgress (1): 45/103 kBProgress (1): 49/103 kBProgress (1): 53/103 kBProgress (1): 57/103 kBProgress (1): 61/103 kBProgress (1): 65/103 kBProgress (1): 69/103 kBProgress (1): 73/103 kBProgress (1): 78/103 kBProgress (1): 82/103 kBProgress (1): 86/103 kBProgress (1): 90/103 kBProgress (1): 94/103 kBProgress (1): 98/103 kBProgress (1): 102/103 kBProgress (1): 103 kB                        Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/liquibase/liquibase-maven-plugin/4.3.5/liquibase-maven-plugin-4.3.5.jar (103 kB at 138 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/plugins/maven-assembly-plugin/3.3.0/maven-assembly-plugin-3.3.0.pom
+Progress (1): 4.1/16 kBProgress (1): 7.9/16 kBProgress (1): 12/16 kB Progress (1): 16 kB                      Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/plugins/maven-assembly-plugin/3.3.0/maven-assembly-plugin-3.3.0.pom (16 kB at 19 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/plugins/maven-assembly-plugin/3.3.0/maven-assembly-plugin-3.3.0.jar
+Progress (1): 4.1/242 kBProgress (1): 7.9/242 kBProgress (1): 12/242 kB Progress (1): 16/242 kBProgress (1): 20/242 kBProgress (1): 24/242 kBProgress (1): 28/242 kBProgress (1): 32/242 kBProgress (1): 37/242 kBProgress (1): 41/242 kBProgress (1): 45/242 kBProgress (1): 49/242 kBProgress (1): 53/242 kBProgress (1): 57/242 kBProgress (1): 61/242 kBProgress (1): 65/242 kBProgress (1): 69/242 kBProgress (1): 73/242 kBProgress (1): 78/242 kBProgress (1): 82/242 kBProgress (1): 86/242 kBProgress (1): 90/242 kBProgress (1): 94/242 kBProgress (1): 98/242 kBProgress (1): 102/242 kBProgress (1): 106/242 kBProgress (1): 110/242 kBProgress (1): 114/242 kBProgress (1): 118/242 kBProgress (1): 121/242 kBProgress (1): 125/242 kBProgress (1): 129/242 kBProgress (1): 133/242 kBProgress (1): 138/242 kBProgress (1): 142/242 kBProgress (1): 146/242 kBProgress (1): 150/242 kBProgress (1): 154/242 kBProgress (1): 158/242 kBProgress (1): 162/242 kBProgress (1): 166/242 kBProgress (1): 170/242 kBProgress (1): 174/242 kBProgress (1): 179/242 kBProgress (1): 183/242 kBProgress (1): 187/242 kBProgress (1): 191/242 kBProgress (1): 195/242 kBProgress (1): 199/242 kBProgress (1): 203/242 kBProgress (1): 207/242 kBProgress (1): 211/242 kBProgress (1): 215/242 kBProgress (1): 220/242 kBProgress (1): 224/242 kBProgress (1): 228/242 kBProgress (1): 232/242 kBProgress (1): 236/242 kBProgress (1): 240/242 kBProgress (1): 242 kB                        Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/plugins/maven-assembly-plugin/3.3.0/maven-assembly-plugin-3.3.0.jar (242 kB at 320 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/plugins/maven-dependency-plugin/3.1.2/maven-dependency-plugin-3.1.2.pom
+Progress (1): 4.1/16 kBProgress (1): 7.9/16 kBProgress (1): 12/16 kB Progress (1): 16/16 kBProgress (1): 16 kB                      Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/plugins/maven-dependency-plugin/3.1.2/maven-dependency-plugin-3.1.2.pom (16 kB at 17 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/plugins/maven-dependency-plugin/3.1.2/maven-dependency-plugin-3.1.2.jar
+Progress (1): 4.1/172 kBProgress (1): 7.9/172 kBProgress (1): 12/172 kB Progress (1): 16/172 kBProgress (1): 20/172 kBProgress (1): 24/172 kBProgress (1): 28/172 kBProgress (1): 32/172 kBProgress (1): 37/172 kBProgress (1): 41/172 kBProgress (1): 45/172 kBProgress (1): 49/172 kBProgress (1): 53/172 kBProgress (1): 57/172 kBProgress (1): 61/172 kBProgress (1): 65/172 kBProgress (1): 69/172 kBProgress (1): 73/172 kBProgress (1): 78/172 kBProgress (1): 82/172 kBProgress (1): 86/172 kBProgress (1): 90/172 kBProgress (1): 94/172 kBProgress (1): 98/172 kBProgress (1): 102/172 kBProgress (1): 106/172 kBProgress (1): 110/172 kBProgress (1): 114/172 kBProgress (1): 118/172 kBProgress (1): 121/172 kBProgress (1): 125/172 kBProgress (1): 129/172 kBProgress (1): 133/172 kBProgress (1): 138/172 kBProgress (1): 142/172 kBProgress (1): 146/172 kBProgress (1): 150/172 kBProgress (1): 154/172 kBProgress (1): 158/172 kBProgress (1): 162/172 kBProgress (1): 166/172 kBProgress (1): 170/172 kBProgress (1): 172 kB                        Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/plugins/maven-dependency-plugin/3.1.2/maven-dependency-plugin-3.1.2.jar (172 kB at 278 kB/s)
+[INFO] 
+[INFO] ---------------------------< com.unico:demo >---------------------------
+[INFO] Building demo 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:3.1.2:tree (default-cli) @ demo ---
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/doxia/doxia-site-renderer/1.9/doxia-site-renderer-1.9.pom
+Progress (1): 4.1/6.7 kBProgress (1): 6.7 kB                        Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/doxia/doxia-site-renderer/1.9/doxia-site-renderer-1.9.pom (6.7 kB at 9.5 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/doxia/doxia-sitetools/1.9/doxia-sitetools-1.9.pom
+Progress (1): 4.1/16 kBProgress (1): 7.9/16 kBProgress (1): 12/16 kB Progress (1): 16 kB                      Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/doxia/doxia-sitetools/1.9/doxia-sitetools-1.9.pom (16 kB at 14 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/doxia/doxia-decoration-model/1.9/doxia-decoration-model-1.9.pom
+Progress (1): 3.4 kB                    Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/doxia/doxia-decoration-model/1.9/doxia-decoration-model-1.9.pom (3.4 kB at 3.4 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/doxia/doxia-skin-model/1.9/doxia-skin-model-1.9.pom
+Progress (1): 3.0 kB                    Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/doxia/doxia-skin-model/1.9/doxia-skin-model-1.9.pom (3.0 kB at 3.4 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/codehaus/plexus/plexus-archiver/4.2.2/plexus-archiver-4.2.2.pom
+Progress (1): 4.1/4.4 kBProgress (1): 4.4 kB                        Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/codehaus/plexus/plexus-archiver/4.2.2/plexus-archiver-4.2.2.pom (4.4 kB at 7.3 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/codehaus/plexus/plexus/6.1/plexus-6.1.pom
+Progress (1): 4.1/24 kBProgress (1): 7.9/24 kBProgress (1): 12/24 kB Progress (1): 16/24 kBProgress (1): 20/24 kBProgress (1): 24 kB                      Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/codehaus/plexus/plexus/6.1/plexus-6.1.pom (24 kB at 34 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/shared/maven-dependency-analyzer/1.11.1/maven-dependency-analyzer-1.11.1.pom
+Progress (1): 4.1/6.7 kBProgress (1): 6.7 kB                        Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/shared/maven-dependency-analyzer/1.11.1/maven-dependency-analyzer-1.11.1.pom (6.7 kB at 12 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/shared/maven-artifact-transfer/0.11.0/maven-artifact-transfer-0.11.0.pom
+Progress (1): 4.1/11 kBProgress (1): 7.9/11 kBProgress (1): 11 kB                       Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/shared/maven-artifact-transfer/0.11.0/maven-artifact-transfer-0.11.0.pom (11 kB at 19 kB/s)
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/doxia/doxia-site-renderer/1.9/doxia-site-renderer-1.9.jar
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/shared/maven-artifact-transfer/0.11.0/maven-artifact-transfer-0.11.0.jar
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/shared/maven-dependency-analyzer/1.11.1/maven-dependency-analyzer-1.11.1.jar
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/codehaus/plexus/plexus-archiver/4.2.2/plexus-archiver-4.2.2.jar
+Downloading from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/doxia/doxia-skin-model/1.9/doxia-skin-model-1.9.jar
+Progress (1): 4.1/17 kBProgress (1): 7.9/17 kBProgress (1): 12/17 kB Progress (1): 16/17 kBProgress (1): 17 kB   Progress (2): 17 kB | 4.1/66 kBProgress (2): 17 kB | 7.9/66 kBProgress (2): 17 kB | 12/66 kB Progress (2): 17 kB | 16/66 kBProgress (2): 17 kB | 20/66 kBProgress (2): 17 kB | 24/66 kBProgress (2): 17 kB | 28/66 kBProgress (2): 17 kB | 32/66 kBProgress (2): 17 kB | 37/66 kBProgress (2): 17 kB | 41/66 kBProgress (2): 17 kB | 45/66 kBProgress (2): 17 kB | 49/66 kBProgress (2): 17 kB | 53/66 kBProgress (2): 17 kB | 57/66 kBProgress (2): 17 kB | 61/66 kBProgress (3): 17 kB | 61/66 kB | 4.1/194 kBProgress (3): 17 kB | 65/66 kB | 4.1/194 kBProgress (3): 17 kB | 65/66 kB | 7.9/194 kBProgress (3): 17 kB | 66 kB | 7.9/194 kB   Progress (3): 17 kB | 66 kB | 12/194 kB Progress (3): 17 kB | 66 kB | 16/194 kBProgress (3): 17 kB | 66 kB | 20/194 kBProgress (3): 17 kB | 66 kB | 24/194 kBProgress (4): 17 kB | 66 kB | 24/194 kB | 4.1/128 kBProgress (4): 17 kB | 66 kB | 28/194 kB | 4.1/128 kBProgress (4): 17 kB | 66 kB | 28/194 kB | 7.9/128 kBProgress (4): 17 kB | 66 kB | 32/194 kB | 7.9/128 kBProgress (4): 17 kB | 66 kB | 32/194 kB | 12/128 kB Progress (4): 17 kB | 66 kB | 32/194 kB | 16/128 kBProgress (4): 17 kB | 66 kB | 32/194 kB | 20/128 kBProgress (4): 17 kB | 66 kB | 32/194 kB | 24/128 kBProgress (4): 17 kB | 66 kB | 32/194 kB | 28/128 kBProgress (4): 17 kB | 66 kB | 32/194 kB | 32/128 kBProgress (4): 17 kB | 66 kB | 37/194 kB | 32/128 kBProgress (4): 17 kB | 66 kB | 41/194 kB | 32/128 kBProgress (4): 17 kB | 66 kB | 45/194 kB | 32/128 kBProgress (4): 17 kB | 66 kB | 49/194 kB | 32/128 kBProgress (4): 17 kB | 66 kB | 49/194 kB | 37/128 kBProgress (4): 17 kB | 66 kB | 53/194 kB | 37/128 kBProgress (4): 17 kB | 66 kB | 53/194 kB | 41/128 kBProgress (4): 17 kB | 66 kB | 57/194 kB | 41/128 kBProgress (4): 17 kB | 66 kB | 57/194 kB | 45/128 kBProgress (4): 17 kB | 66 kB | 61/194 kB | 45/128 kBProgress (4): 17 kB | 66 kB | 61/194 kB | 49/128 kBProgress (4): 17 kB | 66 kB | 65/194 kB | 49/128 kBProgress (4): 17 kB | 66 kB | 65/194 kB | 53/128 kBProgress (4): 17 kB | 66 kB | 65/194 kB | 57/128 kBProgress (4): 17 kB | 66 kB | 65/194 kB | 61/128 kBProgress (4): 17 kB | 66 kB | 65/194 kB | 65/128 kBProgress (4): 17 kB | 66 kB | 69/194 kB | 65/128 kBProgress (4): 17 kB | 66 kB | 73/194 kB | 65/128 kBProgress (4): 17 kB | 66 kB | 78/194 kB | 65/128 kBProgress (4): 17 kB | 66 kB | 82/194 kB | 65/128 kBProgress (4): 17 kB | 66 kB | 82/194 kB | 69/128 kBProgress (4): 17 kB | 66 kB | 82/194 kB | 73/128 kBProgress (4): 17 kB | 66 kB | 82/194 kB | 78/128 kBProgress (4): 17 kB | 66 kB | 82/194 kB | 82/128 kBProgress (4): 17 kB | 66 kB | 86/194 kB | 82/128 kBProgress (4): 17 kB | 66 kB | 90/194 kB | 82/128 kBProgress (4): 17 kB | 66 kB | 94/194 kB | 82/128 kBProgress (4): 17 kB | 66 kB | 98/194 kB | 82/128 kBProgress (4): 17 kB | 66 kB | 98/194 kB | 86/128 kBProgress (4): 17 kB | 66 kB | 98/194 kB | 90/128 kBProgress (4): 17 kB | 66 kB | 98/194 kB | 94/128 kBProgress (4): 17 kB | 66 kB | 98/194 kB | 98/128 kBProgress (4): 17 kB | 66 kB | 102/194 kB | 98/128 kBProgress (4): 17 kB | 66 kB | 106/194 kB | 98/128 kBProgress (4): 17 kB | 66 kB | 110/194 kB | 98/128 kBProgress (4): 17 kB | 66 kB | 114/194 kB | 98/128 kBProgress (4): 17 kB | 66 kB | 114/194 kB | 102/128 kBProgress (4): 17 kB | 66 kB | 114/194 kB | 106/128 kBProgress (4): 17 kB | 66 kB | 118/194 kB | 106/128 kBProgress (4): 17 kB | 66 kB | 118/194 kB | 110/128 kBProgress (4): 17 kB | 66 kB | 123/194 kB | 110/128 kBProgress (4): 17 kB | 66 kB | 123/194 kB | 114/128 kBProgress (4): 17 kB | 66 kB | 127/194 kB | 114/128 kB                                                     Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/doxia/doxia-skin-model/1.9/doxia-skin-model-1.9.jar (17 kB at 25 kB/s)
+Progress (4): 66 kB | 127/194 kB | 114/128 kB | 4.1/35 kBProgress (4): 66 kB | 127/194 kB | 118/128 kB | 4.1/35 kBProgress (4): 66 kB | 131/194 kB | 118/128 kB | 4.1/35 kBProgress (4): 66 kB | 131/194 kB | 123/128 kB | 4.1/35 kBProgress (4): 66 kB | 131/194 kB | 123/128 kB | 7.9/35 kBProgress (4): 66 kB | 135/194 kB | 123/128 kB | 7.9/35 kBProgress (4): 66 kB | 135/194 kB | 127/128 kB | 7.9/35 kBProgress (4): 66 kB | 139/194 kB | 127/128 kB | 7.9/35 kBProgress (4): 66 kB | 139/194 kB | 127/128 kB | 12/35 kB Progress (4): 66 kB | 143/194 kB | 127/128 kB | 12/35 kBProgress (4): 66 kB | 143/194 kB | 128 kB | 12/35 kB    Progress (4): 66 kB | 147/194 kB | 128 kB | 12/35 kBProgress (4): 66 kB | 147/194 kB | 128 kB | 16/35 kBProgress (4): 66 kB | 151/194 kB | 128 kB | 16/35 kBProgress (4): 66 kB | 155/194 kB | 128 kB | 16/35 kBProgress (4): 66 kB | 159/194 kB | 128 kB | 16/35 kBProgress (4): 66 kB | 164/194 kB | 128 kB | 16/35 kBProgress (4): 66 kB | 164/194 kB | 128 kB | 20/35 kBProgress (4): 66 kB | 164/194 kB | 128 kB | 24/35 kBProgress (4): 66 kB | 164/194 kB | 128 kB | 28/35 kBProgress (4): 66 kB | 168/194 kB | 128 kB | 28/35 kBProgress (4): 66 kB | 168/194 kB | 128 kB | 32/35 kBProgress (4): 66 kB | 172/194 kB | 128 kB | 32/35 kBProgress (4): 66 kB | 172/194 kB | 128 kB | 35 kB   Progress (4): 66 kB | 176/194 kB | 128 kB | 35 kB                                                 Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/doxia/doxia-site-renderer/1.9/doxia-site-renderer-1.9.jar (66 kB at 92 kB/s)
+Progress (3): 180/194 kB | 128 kB | 35 kBProgress (3): 184/194 kB | 128 kB | 35 kBProgress (3): 188/194 kB | 128 kB | 35 kBProgress (3): 192/194 kB | 128 kB | 35 kBProgress (3): 194 kB | 128 kB | 35 kB                                         Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/shared/maven-artifact-transfer/0.11.0/maven-artifact-transfer-0.11.0.jar (128 kB at 141 kB/s)
+Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/codehaus/plexus/plexus-archiver/4.2.2/plexus-archiver-4.2.2.jar (194 kB at 167 kB/s)
+Downloaded from nexus: https://nexus.dc.ifood.com.br/repository/public/org/apache/maven/shared/maven-dependency-analyzer/1.11.1/maven-dependency-analyzer-1.11.1.jar (35 kB at 30 kB/s)
+[INFO] com.unico:demo:jar:0.0.1-SNAPSHOT
+[INFO] +- org.springdoc:springdoc-openapi-ui:jar:1.2.32:compile
+[INFO] |  +- org.springdoc:springdoc-openapi-webmvc-core:jar:1.2.32:compile
+[INFO] |  |  \- org.springdoc:springdoc-openapi-common:jar:1.2.32:compile
+[INFO] |  |     +- io.swagger.core.v3:swagger-models:jar:2.1.1:compile
+[INFO] |  |     +- io.swagger.core.v3:swagger-annotations:jar:2.1.1:compile
+[INFO] |  |     +- io.swagger.core.v3:swagger-integration:jar:2.1.1:compile
+[INFO] |  |     |  \- io.swagger.core.v3:swagger-core:jar:2.1.1:compile
+[INFO] |  |     |     +- javax.xml.bind:jaxb-api:jar:2.3.1:compile
+[INFO] |  |     |     |  \- javax.activation:javax.activation-api:jar:1.2.0:compile
+[INFO] |  |     |     +- com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:jar:2.12.4:compile
+[INFO] |  |     |     \- javax.validation:validation-api:jar:2.0.1.Final:compile
+[INFO] |  |     \- io.github.classgraph:classgraph:jar:4.8.44:compile
+[INFO] |  +- org.webjars:swagger-ui:jar:3.25.0:compile
+[INFO] |  \- org.webjars:webjars-locator:jar:0.38:compile
+[INFO] |     +- org.webjars:webjars-locator-core:jar:0.46:compile
+[INFO] |     |  \- com.fasterxml.jackson.core:jackson-core:jar:2.12.4:compile
+[INFO] |     +- com.fasterxml.jackson.core:jackson-databind:jar:2.12.4:compile
+[INFO] |     |  \- com.fasterxml.jackson.core:jackson-annotations:jar:2.12.4:compile
+[INFO] |     \- org.apache.commons:commons-lang3:jar:3.12.0:compile
+[INFO] +- org.springframework.boot:spring-boot-starter-actuator:jar:2.5.4:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter:jar:2.5.4:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot:jar:2.5.4:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-autoconfigure:jar:2.5.4:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-starter-logging:jar:2.5.4:compile
+[INFO] |  |  |  +- ch.qos.logback:logback-classic:jar:1.2.5:compile
+[INFO] |  |  |  |  \- ch.qos.logback:logback-core:jar:1.2.5:compile
+[INFO] |  |  |  +- org.apache.logging.log4j:log4j-to-slf4j:jar:2.14.1:compile
+[INFO] |  |  |  |  \- org.apache.logging.log4j:log4j-api:jar:2.14.1:compile
+[INFO] |  |  |  \- org.slf4j:jul-to-slf4j:jar:1.7.32:compile
+[INFO] |  |  +- jakarta.annotation:jakarta.annotation-api:jar:1.3.5:compile
+[INFO] |  |  \- org.yaml:snakeyaml:jar:1.28:compile
+[INFO] |  +- org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.5.4:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-actuator:jar:2.5.4:compile
+[INFO] |  |  \- com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.12.4:compile
+[INFO] |  \- io.micrometer:micrometer-core:jar:1.7.3:compile
+[INFO] |     +- org.hdrhistogram:HdrHistogram:jar:2.1.12:compile
+[INFO] |     \- org.latencyutils:LatencyUtils:jar:2.0.3:runtime
+[INFO] +- org.springframework.boot:spring-boot-starter-data-jdbc:jar:2.5.4:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter-jdbc:jar:2.5.4:compile
+[INFO] |  |  +- com.zaxxer:HikariCP:jar:4.0.3:compile
+[INFO] |  |  \- org.springframework:spring-jdbc:jar:5.3.9:compile
+[INFO] |  \- org.springframework.data:spring-data-jdbc:jar:2.2.4:compile
+[INFO] |     +- org.springframework.data:spring-data-relational:jar:2.2.4:compile
+[INFO] |     +- org.springframework.data:spring-data-commons:jar:2.5.4:compile
+[INFO] |     +- org.springframework:spring-tx:jar:5.3.9:compile
+[INFO] |     +- org.springframework:spring-context:jar:5.3.9:compile
+[INFO] |     +- org.springframework:spring-beans:jar:5.3.9:compile
+[INFO] |     \- org.slf4j:slf4j-api:jar:1.7.32:compile
+[INFO] +- org.springframework.boot:spring-boot-starter-web:jar:2.5.4:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter-json:jar:2.5.4:compile
+[INFO] |  |  +- com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.12.4:compile
+[INFO] |  |  \- com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.12.4:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter-tomcat:jar:2.5.4:compile
+[INFO] |  |  +- org.apache.tomcat.embed:tomcat-embed-core:jar:9.0.52:compile
+[INFO] |  |  +- org.apache.tomcat.embed:tomcat-embed-el:jar:9.0.52:compile
+[INFO] |  |  \- org.apache.tomcat.embed:tomcat-embed-websocket:jar:9.0.52:compile
+[INFO] |  +- org.springframework:spring-web:jar:5.3.9:compile
+[INFO] |  \- org.springframework:spring-webmvc:jar:5.3.9:compile
+[INFO] |     +- org.springframework:spring-aop:jar:5.3.9:compile
+[INFO] |     \- org.springframework:spring-expression:jar:5.3.9:compile
+[INFO] +- org.springframework.boot:spring-boot-starter-test:jar:2.5.4:test
+[INFO] |  +- org.springframework.boot:spring-boot-test:jar:2.5.4:test
+[INFO] |  +- org.springframework.boot:spring-boot-test-autoconfigure:jar:2.5.4:test
+[INFO] |  +- com.jayway.jsonpath:json-path:jar:2.5.0:test
+[INFO] |  |  \- net.minidev:json-smart:jar:2.4.7:test
+[INFO] |  |     \- net.minidev:accessors-smart:jar:2.4.7:test
+[INFO] |  |        \- org.ow2.asm:asm:jar:9.1:test
+[INFO] |  +- jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.3:test
+[INFO] |  |  \- jakarta.activation:jakarta.activation-api:jar:1.2.2:test
+[INFO] |  +- org.assertj:assertj-core:jar:3.19.0:test
+[INFO] |  +- org.hamcrest:hamcrest:jar:2.2:test
+[INFO] |  +- org.junit.jupiter:junit-jupiter:jar:5.7.2:test
+[INFO] |  |  +- org.junit.jupiter:junit-jupiter-api:jar:5.7.2:test
+[INFO] |  |  |  +- org.apiguardian:apiguardian-api:jar:1.1.0:test
+[INFO] |  |  |  +- org.opentest4j:opentest4j:jar:1.2.0:test
+[INFO] |  |  |  \- org.junit.platform:junit-platform-commons:jar:1.7.2:test
+[INFO] |  |  +- org.junit.jupiter:junit-jupiter-params:jar:5.7.2:test
+[INFO] |  |  \- org.junit.jupiter:junit-jupiter-engine:jar:5.7.2:test
+[INFO] |  |     \- org.junit.platform:junit-platform-engine:jar:1.7.2:test
+[INFO] |  +- org.mockito:mockito-core:jar:3.9.0:test
+[INFO] |  |  +- net.bytebuddy:byte-buddy:jar:1.10.22:test
+[INFO] |  |  +- net.bytebuddy:byte-buddy-agent:jar:1.10.22:test
+[INFO] |  |  \- org.objenesis:objenesis:jar:3.2:test
+[INFO] |  +- org.mockito:mockito-junit-jupiter:jar:3.9.0:test
+[INFO] |  +- org.skyscreamer:jsonassert:jar:1.5.0:test
+[INFO] |  |  \- com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test
+[INFO] |  +- org.springframework:spring-core:jar:5.3.9:compile
+[INFO] |  |  \- org.springframework:spring-jcl:jar:5.3.9:compile
+[INFO] |  +- org.springframework:spring-test:jar:5.3.9:test
+[INFO] |  \- org.xmlunit:xmlunit-core:jar:2.8.2:test
+[INFO] +- com.h2database:h2:jar:1.4.200:runtime
+[INFO] +- org.postgresql:postgresql:jar:42.2.23:runtime
+[INFO] |  \- org.checkerframework:checker-qual:jar:3.5.0:runtime
+[INFO] \- org.projectlombok:lombok:jar:1.18.20:compile (optional) 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  26.054 s
+[INFO] Finished at: 2021-09-22T18:41:07-03:00
+[INFO] ------------------------------------------------------------------------
